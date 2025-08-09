@@ -1,0 +1,58 @@
+{
+  "recommendations": [
+    // Themes & Icons
+    "juanmnl.vscode-theme-1984",
+    "antfu.theme-vitesse",
+    "antfu.icons-carbon",
+    "catppuccin.catppuccin-vsc-icons",
+    "oderwat.indent-rainbow",
+    "vincaslt.highlight-matching-tag",
+
+    // Tools
+    "deepscan.vscode-deepscan",
+    "EditorConfig.EditorConfig",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "GitHub.copilot",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "mpontus.tab-cycle",
+
+    // Visuals 
+    "antfu.iconify",
+    "antfu.slidev",
+    "antfu.unocss",
+    "lokalise.i18n-ally",
+    "geriyoco.vscode-image-gallery",
+    "jock.svg",
+    "tomoki1207.pdf",
+
+    // Git
+    "eamodio.gitlens",
+    "adam-bender.commit-message-editor",
+    "antfu.open-in-github-button",
+
+    // Vue & React
+    "vue.volar",
+    "sdras.vue-vscode-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "oxc.oxc-vscode",
+
+    // CSS
+    "pranaygp.vscode-css-peek",
+    "naumovs.color-highlight",
+    "cipchk.cssrem",
+    "bradlc.vscode-tailwindcss",
+    "antfu.unocss",
+
+    // Other
+    "wakatime.vscode-wakatime",
+    "antfu.where-am-i",
+    "zhucy.project-tree",
+    "intellsmi.comment-translate",
+    "bierner.emojisense",
+    "adpyke.codesnap"
+  ]
+}
